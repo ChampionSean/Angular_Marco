@@ -1,0 +1,25 @@
+ <!DOCTYPE html>
+<html>
+<meta charset="utf-8"/>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+<script src="module.js"></script>
+<script src="controller.js"></script>
+<link rel="stylesheet" type="text/css" href="angular.css">
+</head>
+
+<body>
+<div ng-app="firstApp" ng-controller="myCtrl">
+<table>
+<tr ng-repeat="x in myData">
+    <td>{{ $index + 1 }}</td>
+    <td>{{ x.Nombre }}</td>
+    <td>{{ x.Email }}</td>
+    <td>{{ x.Direccion }}</td>
+    <td>{{ x.Telefono }}</td>
+  </tr>
+  </table>
+</div>
+</body>
+
+</html> 

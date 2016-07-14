@@ -1,0 +1,64 @@
+{
+  "records": [
+    {
+      "Nombre": "Alfreds Futterkiste",
+      "Email": "alfred@gmail.com",
+      "Telefono": "55123456",
+      "Direccion": "José Sánchez Trujillo No. 63"
+    },
+    {
+      "Nombre": "Gonzalo Zurita",
+      "Email": "gonz@gmail.com",
+      "Telefono": "55675489",
+      "Direccion": "Calle Hamburgo 126"
+    },
+    {
+      "Nombre": "Manfred Kratz",
+      "Email": "manfred@gmail.com",
+      "Telefono": "55859434",
+      "Direccion": "Calle Homero 1832, Miguel Hidalgo"
+    },
+    {
+      "Nombre": "Brisa Salazar",
+      "Email": "bri@gmail.com",
+      "Telefono": "55894758",
+      "Direccion": "Av. Gustavo Baz 253, Bosques de Echegaray"
+    },
+    {
+      "Nombre": "Mike Mosco",
+      "Email": "mike@gmail.com",
+      "Telefono": "55958602",
+      "Direccion": "Doctor Terres, 39, Delegación Cuauhtémoc"
+    },
+    {
+      "Nombre": "Brenda Ramirez",
+      "Email": "bren@gmail.com",
+      "Telefono": "55589435",
+      "Direccion": "Piso 5-A, Col. Del. de, Vallarta 1, Tabacalera"
+    },
+    {
+      "Nombre": "Thomas Park",
+      "Email": "tom@gmail.com",
+      "Telefono": "55904567",
+      "Direccion": "Av Amsterdam 115, 06170 D.F."
+    },
+    {
+      "Nombre": "Brayan Fraga",
+      "Email": "bray@hotmail.com",
+      "Telefono": "55123456",
+      "Direccion": "Tiburcio Montiel 76b, San Miguel Chapultepec"
+    },
+    {
+      "Nombre": "Gustavo Ayon",
+      "Email": "gus@hotmail.com",
+      "Telefono": "55567689",
+      "Direccion": "Bahía de Santa Bárbara 174, Miguel Hidalgo"
+    },
+    {
+      "Nombre": "Pepe Cuellar",
+      "Email": "pep@yahoo.com",
+      "Telefono": "55435466",
+      "Direccion": "Av. Instituto Politécnico Nacional 1936"
+    }
+  ]
+}
